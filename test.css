@@ -247,7 +247,7 @@ html {
 .main-card-cardContainer,
 .view-homeShortcutsGrid-draggable {
   background-color: var(--spice-card);
-  border: 1px var(--spice-contour) solid;
+  border: 0.5px var(--spice-contour) solid;
 }
 
 .main-tag-container {
