@@ -50,6 +50,14 @@
   --lyrics-color-background: rgb(0, 0, 0, 0) !important;
 }
 
+//adding some comments to the issues
+  radioGroup.add(radioButton);
+        radioGroup.add(radioButton1);
+        centralPanel.add(clickButton);
+        centralPanel.add(checkBox);
+        centralPanel.add(radioButton);
+        centralPanel.add(radioButton1);
+
 /* Fix Overflow off Screen */
 html {
   max-width: 100vw;
